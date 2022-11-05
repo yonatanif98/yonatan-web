@@ -7,6 +7,7 @@
 h1{
     color: aqua;
     border: 10px solid blue ;
+    border-radius: 50px;
 }
 
 .piska1{
