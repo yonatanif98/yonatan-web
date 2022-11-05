@@ -1,0 +1,27 @@
+.header{
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+h1{
+    color: aqua;
+}
+
+.piska1{
+    display: flex; justify-content: space-between; 
+    text-align: left;
+    color: blueviolet;
+    font-size: 60px;
+}
+
+.BMW-Z3{
+    text-align: center;
+
+}
+
+.BMW-Z3 img{
+    border-radius: 50%;
+}
+
+
